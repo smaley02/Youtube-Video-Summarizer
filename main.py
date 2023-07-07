@@ -7,6 +7,7 @@ openai.api_key = ''
 
 def main():
     # get key from youtube video
+    # sample video and id:
     # video from: https://www.youtube.com/watch?v=DuDz6B4cqVc
     video_id = 'DuDz6B4cqVc'
 
