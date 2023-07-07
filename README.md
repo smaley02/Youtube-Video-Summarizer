@@ -8,4 +8,5 @@ After installing the libraries, modify the main file to include your ChatGPT API
 
 
 Youtube transcript API - https://pypi.org/project/youtube-transcript-api/
+
 OpenAI ChatGPT API - https://openai.com/blog/introducing-chatgpt-and-whisper-apis
